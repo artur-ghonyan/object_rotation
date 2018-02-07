@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Object Rotation</string>
+    <string name="iv_content_description">ImageView to display the geometric object</string>
+    <string name="tv_object_size_text">Select object size</string>
+
+    <string-array name="object_size_display_texts">
+        <item>0.5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+    </string-array>
+</resources>
